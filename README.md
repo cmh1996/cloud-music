@@ -1,21 +1,25 @@
-# cloud-music
-
-> A Vue.js project
-
-## Build Setup
+## 基于vue全家桶，仿网易云音乐移动端简版
 
 ``` bash
-# install dependencies
+#克隆项目
+git clone git@github.com:cmh1996/cloud-music.git
+
+# 安装依赖
 npm install
 
-# serve with hot reload at localhost:8080
+# 本地开发环境 访问http://localhost:8080
 npm run dev
 
-# build for production with minification
+# 构建生产
 npm run build
 
-# build for production and view the bundle analyzer report
-npm run build --report
 ```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## 项目说明
+该项目是我学习vue时写的第二个练手项目，代码也比较精简。
+
+
+## 项目截图
+![](screen/1.png)![](screen/2.png)
+![](screen/3.png)![](screen/4.png)
+![](screen/5.png)
